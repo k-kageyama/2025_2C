@@ -3,14 +3,11 @@
 舞鶴線の各駅の一日利用者数を調べた。
 
 ## ファイルについて
-report.html
+### report.html
+各班員が調べたまとめHP
 
-    各班員が調べたまとめHP
+### S12-22_NumberOfPassengers.geojson
+全国の駅データ
 
-S12-22_NumberOfPassengers.geojson
-
-    全国の駅データ
-
-新円グラフ.twb
-
-    舞鶴線の各駅の一日利用者数円グラフ
+### 新円グラフ.twb
+舞鶴線の各駅の一日利用者数円グラフ
